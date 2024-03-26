@@ -1,0 +1,42 @@
+/* BlogPost.css */
+
+.blog-post {
+  padding: 20px;
+  border: 1px solid #262626; /* Dark Gray */
+  border-radius: 5px;
+  margin-bottom: 20px;
+  background-color: #1a1a1a; /* Dark Background */
+  color: #E5E5E5; /* Light Gray Text */
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #FFFFFF; /* White */
+}
+
+.content {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.image {
+  width: 100%;
+  max-height: 300px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.comment-section {
+  margin-top: 20px;
+}
+
+.comment {
+  margin-bottom: 5px;
+  font-size: 14px;
+  color: #E5E5E5; /* Light Gray Text */
+}
+
+/* Add more styling as needed */
